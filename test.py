@@ -47,6 +47,7 @@ sleep(3)
 driver.find_element_by_xpath('/html/body/div[1]/div[6]/div/div/div[2]/div[2]/button').click()
 sleep(5)
 
+
 listtotal = []
 
 table1 = driver.find_element_by_xpath("/html/body/div[1]/div[21]/div[2]") 
